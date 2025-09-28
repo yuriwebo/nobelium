@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'Dummy',
+  title: 'Dummy Tech',
   author: 'yuriwebo',
   email: 'foystor@gmail.com',
-  link: 'https://dummy.vercel.app',
+  link: 'https://dummy-tech.vercel.app',
   description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Tokyo', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
